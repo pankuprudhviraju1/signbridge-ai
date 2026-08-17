@@ -2,3 +2,12 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+*.record
+*.pb
+*.index
+*.data-*
+checkpoint
+Tensorflow/workspace/models/*/
+Tensorflow/workspace/pre-trained-models/*/
+Tensorflow/workspace/exported-models/*/
+!Tensorflow/workspace/**/.gitkeep
